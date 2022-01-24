@@ -97,7 +97,7 @@ a {
 .service1 {
   width: 49%;
   margin-top: 20px;
-  margin-right: 10px;
+  margin-right: 1%;
   line-height: 30px;
 }
 
@@ -366,6 +366,10 @@ a {
 }
 .drawer-nav {
   display: block;
+}
+
+.service1 {
+  width: 100%;
 }
 
 /*メニューボタン　展開前*/
