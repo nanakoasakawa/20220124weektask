@@ -91,7 +91,6 @@ a {
 .service_content {
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
 }
 
 .service1 {
@@ -204,7 +203,6 @@ a {
 
 .blog_content {
   display: flex;
-  align-items: center;
   margin-top: 20px;
 }
 
